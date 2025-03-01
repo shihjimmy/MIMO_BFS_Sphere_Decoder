@@ -1,9 +1,8 @@
-
-# Digital Communication IC Design: Final Project Documentation
 # MIMO_BFS_Sphere_Decoder
 
 ## **Project Overview**
-This project involves designing a 4×4 MIMO detector for an 8-PSK system using the Breadth-First Search (BFS) Sphere Decoding algorithm. The goal is to achieve high performance in terms of Bit Error Rate (BER) versus Signal-to-Noise Ratio (SNR), while ensuring efficient hardware implementation.
+This project involves designing a 4×4 MIMO detector for an 8-PSK system using the Breadth-First Search (BFS) Sphere Decoding algorithm.   
+Our design can achieve high performance in terms of Bit Error Rate (BER) versus Signal-to-Noise Ratio (SNR).
 
 ### **Key Objectives**
 1. Implement BFS-based Sphere Decoding to detect 8-PSK symbols.
